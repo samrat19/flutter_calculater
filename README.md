@@ -2,7 +2,7 @@
 
 # First Look
 
-![_20181201_011952](https://user-images.githubusercontent.com/30453784/49330459-1715f200-f5b5-11e8-8b04-c1cffead8671.jpg)
+![_20181201_215352](https://user-images.githubusercontent.com/30453784/49330496-a02d2900-f5b5-11e8-8b1d-b6ea3b1b5a8f.jpg)
 
 
 ## Getting Started
