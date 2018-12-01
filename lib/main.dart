@@ -97,6 +97,14 @@ class _CalculaterAppState extends State<CalculaterApp> {
       data = num.toString();   
     });
   }
+  
+  void zero(){
+    setState(() {
+      var num = int.parse(data);
+        num = 10*num;
+      data = num.toString();   
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -318,6 +326,7 @@ class _CalculaterAppState extends State<CalculaterApp> {
                         color: Colors.grey, 
                       ),
                       FloatingActionButton(
+                        onPressed: zero,
                             backgroundColor: Colors.white,
                             child: Text("0",style: TextStyle(
                             fontSize: 40.0,
